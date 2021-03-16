@@ -9,7 +9,9 @@ def svolgiEs(n_esercizio):
     es.consegna(soluzione)
 
 
-def es2(dati):
+def es1(dati):
+    ...#esercizio da svolgere
+    return dati
     
 
 
