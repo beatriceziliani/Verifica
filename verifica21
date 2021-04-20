@@ -1,0 +1,6 @@
+from spalla import Verifica
+Verifica.firma("Beatrice Ziliani")
+es = Verifica.inizia_esercizio(1)
+dati = es.dati
+...
+es.consegna(x)
